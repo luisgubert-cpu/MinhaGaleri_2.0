@@ -3,7 +3,8 @@ body{
      margin: 0;  /*remover a margem*/
 
      background-color: rgb(11, 73, 11); /*ele muda a cor do fundo*/
-     
+
+     font-family: Georgia, 'Times New Roman', Times, serif;
 
 
 }
