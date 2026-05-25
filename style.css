@@ -10,8 +10,23 @@ body{
 }
 
 h1{
-    
-}
+     text-align: center; /*alinhamento da titulo*/
+     margin-bottom: 40px; /*margem do titulo*/
 
+
+}
+ 
+.imagem{
+
+      display : grid; /*faz a tela ficar em 3x3*/
+      grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+      /*cria colunas, auto fit = encaixa as colunas,
+      minmax = retringe o numero de coluna*/
+
+      margin: auto; /*margem*/
+      
+
+
+}
 
 
