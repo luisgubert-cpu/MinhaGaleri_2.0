@@ -29,4 +29,10 @@ h1{
 
 }
 
+.imagem img {
 
+     width: 50%;
+     max-width: 100px; /* define a largura */
+     height: auto; /* defini a altura */
+     justify-self: center;
+}
